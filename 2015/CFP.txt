@@ -1,0 +1,49 @@
+CALL FOR PAPERS - CWIT 2013
+
+The 13th Canadian Workshop on Information Theory will take place in 
+Toronto, Ontario, Canada from Tuesday, May 28, to Friday, May 31, 2013. 
+Previously unpublished contributions from a broad range of topics in 
+information theory and its applications are solicited, including (but 
+not limited to) the following areas:
+
+* Coded modulation
+* Coding theory and practice
+* Communication complexity
+* Communication systems
+* Cryptology and data security
+* Data compression 
+* Detection and estimation
+* Information theory and statistics
+* Network coding
+* Interactive information theory
+* Pattern recognition and learning
+* Quantum information processing
+* Shannon theory
+* Signal processing
+* Cognitive radio
+* Cooperative communication
+* Multi-terminal information theory
+* Information theory in biology
+ 
+Manuscripts (both review and final versions) must be submitted through 
+EDAS (http://edas.info) in standard IEEE two-column format. Manuscripts 
+can be up to 6 pages in length, although authors are strongly encouraged 
+to be concise, and 5 pages is the recommended length. Accepted papers 
+will be presented orally at the workshop by the authors, and at least 
+one author of each accepted paper is expected to attend the workshop. 
+Published papers will appear in IEEE Xplore.
+
+CWIT 2013 is technically cosponsored by the IEEE Information Theory 
+Society.
+
+IMPORTANT DATES
+
+* Review manuscripts due February 1, 2013
+* Paper acceptance notification March 25, 2013
+* Final papers due April 8, 2013
+
+CONTACT
+	
+Prof. Andrew W. Eckford, CWIT 2013 general chair, aeckford@yorku.ca
+
+
