@@ -9,7 +9,7 @@ For more information, see http://andreasviklund.com/templates/the-grid-v2/
 body {background:#fff url(../images/background.png) top center no-repeat; color:#303030; font:84% Helvetica,Tahoma,sans-serif; line-height:1.4em;}
 a {color:#2a5a9a; text-decoration:none; font-weight:700;}
 a:hover {text-decoration:underline;}
-p,ul,ol,dl {margin:0 0 20px 0;}
+p,ul,ol,dl {margin:0 0 20px 0px;}
 h1 {color:#888; font-size:3em; margin-bottom:5px;}
 h1 a {text-transform:none; font-weight:400;}
 h1 a:hover {text-decoration:none; color:#303030;}
@@ -80,3 +80,5 @@ ul.menu li a:hover {color:#303030; text-decoration:none; border-bottom:1px dotte
 .spacer {margin:0 20px;}
 .clear {clear:both;}
 .hide {display:none;}
+
+ul {margin: 0 0 20px 20px;}
