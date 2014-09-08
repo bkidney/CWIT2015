@@ -7,3 +7,7 @@ end
 task :deploy => :build do
   sh "scp -r ./_site/* cwit2015@do.cwit.ca:/var/www/cwit.ca/2015/."
 end
+
+task :open do
+  sh "open http://www.cwit.com/2015"
+end
