@@ -8,7 +8,7 @@ Authors wishing to have papers considered for CWIT should electronically submit 
 
 Accepted papers will be published on IEEE Xplore and in the proceedings of the workshop.
 
-The maximum paper length is four (4) printed pages (10-point font), without incurring additional page charges. A maximum of one (1) extra page is allowed, with the over length page charge of C$100.00.
+The maximum paper length is four (4) printed pages (10-point font), without incurring additional page charges. A maximum of one (1) extra page is allowed, with the additional page charge of C$100.00.
 
 The deadline for the full-length papers submission is **January 15, 2015**.
 
