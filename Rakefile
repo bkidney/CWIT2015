@@ -9,5 +9,9 @@ task :deploy => :build do
 end
 
 task :open do
-  sh "open http://www.cwit.com/2015"
+  sh "open http://www.cwit.ca/2015"
+end
+
+task :preview => :build do
+  sh "open ./_site/index.html"
 end
