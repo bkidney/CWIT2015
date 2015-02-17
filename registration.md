@@ -15,6 +15,6 @@ Registration rates are as follows \(all amounts in [Canadian dollars](http://www
 |----------------------|---------------|-----------------------------|
 
 <br>
-*\*All accepted papers must be accompanied by a full registration. Each full registration covers up to two papers.*
+*\*All accepted papers must be accompanied by a full registration. Each full registration covers one paper.*
 *\*\*Available to **currently registered** undergraduate and graduate students. Postdocs are not eligible.*
 
