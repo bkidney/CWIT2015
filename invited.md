@@ -56,3 +56,32 @@ The quest for bandwidth-efficient acoustic communications has progressed over th
 He retired from University of Hawaii in 1999 and he is currently an Adjunct Professor at University of California, Davis, California. He has published at least 800 technical papers in prestigious refereed technical journals and international conference proceedings. He is the author of the book, An Introduction to Error-Correcting Codes (Englewood Cliff, NJ: Prentice-Hall, 1970). He also co-authored (with D. J. Costello) the book, Error Control Coding: Fundamentals and Applications (Upper Saddle River, NJ: Prentice-Hall, 1st edition, 1982, 2nd edition, 2004), the book (with T. Kasami, T. Fujiwara, and M. Fossorier), Trellises and Trellis-Based Decoding Algorithms, (Boston, MA: Kluwer Academic, 1998), and the book, Channel Codes: Classical and Modern (Cambridge University Press 2009).
 
 Dr. Lin was elected to IEEE (Institute of Electrical and Electronic Engineering) Fellow in 1980 and Life Fellow in 2000. In 1996, he was a recipient of the Alexander von Humboldt Research Prize for U.S. Senior Scientists and a recipient of the IEEE Third-Millennium Medal, 2000. In 2007, he was a recipient of The Communications Society Stephen O. Rice Prize in the Field of Communications Theory. In 2014, he was awarded the NASA Exceptional Public Achievement Medal.
+
+
+![Alex Alvarado](images/alvarado.jpg)
+
+### Alex Alvarado ###
+*University College, London, UK*
+
+*Title:* Coding and Modulation for Optical Communication Systems: Replacing the Soft FEC Limit Paradigm
+
+*Abstract:* The demand for global IP communication bandwidth is continuously growing at a current estimated rate of approximately 20% per year. Most of this demand is met by optical fiber communications, which transports over 95% of all digital data traffic around the globe. Optical fibers were traditionally viewed as a medium with unlimited capacity. However, in recent years, the seemingly never-ending data traffic increase together with the impact of fiber nonlinearities have created the need to increase the spectral efficiency of coherent optical transceivers. 
+
+Forward error correction (FEC) and multilevel modulation formats are one of the key technologies for realizing high spectral efficiencies in optical communications. The combination of FEC and multilevel modulation is known as coded modulation, where FEC is used to recover the sensitivity loss caused by the nonbinary modulation. While in the past optical communication systems were based on hard-decision FEC, modern systems use soft-decision FEC, such as turbo product codes or low-density parity-check codes.
+
+To meet higher-layer quality of service requirements, the bit-error rate (BER) target after decoding (post-FEC BER) is typically around 10^-15. Since such low BER values cannot be reliably estimated by Monte-Carlo simulations or experiments with offline digital signal processing, the conventional design paradigm has been to simulate the system without FEC encoding and decoding, and optimize it for a much higher BER requirement, the so-called "FEC limit" or "FEC threshold". Under this paradigm, the existence of a FEC code that brings down the BER after decoding to the desired target level is assumed. 
+
+In this talk, we challenge the FEC limit paradigm and show that the concept of a channel-independent FEC limit is invalid for soft-decision bit-wise decoding and low to medium code rates. A better predictor is the generalized mutual information (GMI), which is shown to give consistent post-FEC BER predictions across different channel conditions and modulation formats. The "GMI threshold" paradigm is suggested as the relevant design tool for modern optical communication systems. Extensive optical full-field simulations and experiments in both the linear and nonlinear transmission regimes confirm the theoretical analysis.
+
+*Bio:* Alex Alvarado was born in 1982 in Quellón, on the island of Chiloé, Chile. He obtained his Electronic Engineering Diploma (Ingeniero Civil Electrónico) and his Master of Science in Electronic Engineering (Magíster en Ciencias de la Ingeniería Electrónica) from the Departamento de Electrónica, Universidad Técnica Federico Santa María (UTFSM), Chile, in 2003 and 2005, respectively. He obtained the degree of Licentiate of Engineering (Teknologie Licentiatexamen) in 2008 and his PhD degree in 2011, both of them from Chalmers University of Technology, Gothenburg, Sweden.
+ 
+Dr. Alvarado is currently a Senior Research Associate at the Optical Networks Group, University College London, United Kingdom. In 2012-2014 he was a Marie Curie Intra-European Fellow at the University of Cambridge, United Kingdom, and during 2011-2012 he was a Newton International Fellow at the same institution. His general research interests are in the areas of digital communications, coding, and information theory.
+
+![Sofiène Affes](images/Affes.jpg)
+
+### Sofiène Affes ###
+*INRS, Canada*
+
+*Abstract:* TBA
+
+*Title:* TBA
