@@ -21,7 +21,19 @@ layout: default
 ###Vahid Tarokh###
 *Harvard University*
 
-*Title:* Complementary Lattice Arrays
+*Title:* Some Applications of The Theorem of Fisher–Tippett–Gnedenko
+
+*Abstract:* One of the most profound results in Extreme Value Theory is the Theorem of Fisher-Tippett and Gnedenko. In spite of the fact that it is extremely powerful, it remains (in my opinion) highly  under-appreciated (at least) in engineering.
+
+I will briefly review this theorem in an elementary manner. Then I will show some applications:
+
+a)  It is well-known that Claude Shannon has computed the ultimate limit of transmission (capacity) for certain channels.  However, the "ultimate throughput" of schedulers are not known. I will use the Theorem of Fisher-Tippett and Gnedenko, and derive the capacity of certain schedulers.
+
+b) Using the same theorem, I will discuss the ultimate gain of multiuser antenna selection diversity schemes.
+
+c) For a distributed random array (e.g. in radar or astronomy) scenario, I will indicate the distributions of the side-lobes using the same theorem.
+
+I note that there exist "Free Extreme Values" generalizations [Ben Arous and Voiculescu] of Fisher-Tippett-Gnedenko Theorem.  I may also touch on this (non-elementary) topic.
 
 *Bio:* Vahid Tarokh received the Ph.D. in Electrical Engineering from the University of Waterloo, Ontario, Canada in 1995. He then worked at AT&T Labs-Research until August 2000 as Member, Principal Member of Technical Staff, and finally as the Head of the Department of Wireless Communications and Signal Processing.  In Sept 2000, he joined MIT as an Associate Professor of Electrical Engineering. In June 2002, he joined Harvard University, where he is a Professor of Applied Mathematics. His current research areas are in stochastic processes, pseudo-randomness, free probability, machine learning and data analysis.  He has received a Guggenheim Fellowship in Applied Mathematics (for his results on pseudo-randomness), and holds three honorary degrees.
 
