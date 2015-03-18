@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## Exhibition ##
+
+The exhibition will be open on Tuesday and Wednesday, 9:00 am to 5:10 pm. Tektronix and Testforce will be presenting most recent products.
+
 ## Exhibitor Information ##
 
 CWIT 2015 are pleased to invite you and your company to be an exhibitor at this year’s workshop. CWIT 2015 provides you with several excellent opportunities to showcase your organization's products and services in this relaxed yet professional setting at Memorial University. To give you maximum exposure to workshop attendees of representatives from government, businesses, universities, and students, we offer events such as the Welcome Reception.
@@ -27,6 +31,3 @@ Not included in the rental price:
 * Security service
 * Receiving, installation, dismantling, or storage of exhibit
 
-### Exhibition Floor Plan
-
-![Exhibit Floor Plan](images/floorplan.png)
