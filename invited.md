@@ -9,9 +9,11 @@ layout: default
 ###Andrew Eckford###  
 *York University, Canada*
 
-*Abstract:* TBA
+*Title:* Information Theory in Intercellular Signal Transduction
 
-*Title:* TBA
+*Abstract:* The cells in the human body use intercellular signal transduction to organize themselves and regulate their work; multicellular life would not exist without it. In this talk, I explain why information theory provides a useful toolbox to approach this problem. I also explain how to calculate the capacity of intercellular signal transduction in some specific examples. Finally, I describe the challenges and future prospects of this avenue of research.
+
+*Bio:* Andrew Eckford is an Associate Professor in the Department of Electrical Engineering and Computer Science at York University, Toronto, Ontario. He received the B.Eng. degree from the Royal Military College of Canada in 1996, and the M.A.Sc. and Ph.D. degrees from the University of Toronto in 1999 and 2004, respectively, all in Electrical Engineering. Andrew held postdoctoral fellowships at the University of Notre Dame and the University of Toronto, prior to taking up a faculty position at York in 2006. Andrew’s research interests include the application of information theory to nonconventional channels and systems, especially the use of molecular and biological means to communicate. Andrew's research has been covered in media including The Economist and The Wall Street Journal, and was recognized as a finalist for the 2014 Bell Labs Prize. Andrew is also a co-author of the textbook Molecular Communication, published by Cambridge University Press.
 
 
 ![Milica Stojanovic](images/Stojanovic.jpg)
