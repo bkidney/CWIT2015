@@ -11,7 +11,7 @@ Registration rates are as follows \(all amounts in [Canadian dollars](http://www
 |:---------------------+--------------:+----------------------------:|
 | Full\*               | $475.00       | $525.00                     |
 | Student\*\*          | $200.00       | $250.00                     |
-| Extra Banquet Ticket | TBD           | TBD                         |
+| Extra Banquet Ticket | $85.00        | $85.00                      |
 |----------------------|---------------|-----------------------------|
 
 <br>
